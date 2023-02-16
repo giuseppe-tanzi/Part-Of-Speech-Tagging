@@ -1,4 +1,9 @@
+<a target="_blank" href="https://colab.research.google.com/github/giuseppe-tanzi/Part-Of-Speech-Tagging/blob/main/POS_Tagging.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Part-of-speech tagging
+
 
 Authors:
 - [Yuri Noviello](https://github.com/yurinoviello)
