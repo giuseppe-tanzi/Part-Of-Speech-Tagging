@@ -11,8 +11,6 @@ Authors:
 - [Flavio Pinzarrone](https://github.com/flaviopinzarrone)
 - [Giuseppe Tanzi](https://github.com/giuseppe-tanzi)
 
-[First assignement](./Assignment.ipynb) for the "Natural Language Processing" course of the Artificial Intelligence master's degree at University of Bologna.
-
 ## Abstract
 
 In Natural Language Processing, it is important the use of part-of-speech tagging. By assigning each word a specific tag, algorithms can improve the representation of similar words in different situations. The objective of this study is to tackle part-of-speech tagging with bidirectional recurrent neural models with a small number of parameters. Different networks with different combinations of layers were compared, using recurrent networks such as BiLSTM and BiGRU. The embedding was pre-trained using GloVe-50 and the Out-Of-Vocabulary words were initialized by taking the average of a 3-words context. The two best models, which contained BiLSTM layer, both achieved a Macro-F1 scores of 0.77.
